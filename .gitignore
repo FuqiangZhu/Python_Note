@@ -1,0 +1,11 @@
+.idea
+*.pyc
+venv/
+log/*.log
+log/*/*.log
+log/*.pid
+*.pid
+*.db
+celerybeat-schedule*
+__pycache__/
+migrations/
